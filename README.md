@@ -67,8 +67,7 @@ Yazılım şu anda geliştirme aşamasındadır ve aşağıdaki temel görevleri
 - [ ] Firmware geliştirme (Devam ediyor 🔨)
 - [ ] Force Feedback (FFB) yazılım entegrasyonu
 
-### 📸 Görseller
-*(Proje tamamlandığında detaylı fotoğraflar ve bağlantı şemaları buraya eklenecektir.)*
+
 
 ### 🤝 Katkı
 Bu proje Açık Kaynak (Open Source) ruhuyla geliştirilmektedir. Her türlü katkıya açıktır!
